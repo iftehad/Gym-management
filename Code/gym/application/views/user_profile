@@ -1,0 +1,23 @@
+user_profile
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Help	
+	</title>
+</head>
+<body style="padding: 20px">
+
+      <div class="container-fluid">
+        <div class="col-md-1"></div>
+           <div class="col-md-10">
+           	           <img src="<?php echo base_url('images/help1.jpg');?>" width="800" height="345" >
+				        <p>GOLD’S GYM TERMS AND CONDITIONS OF USE OWNERSHIP
+
+Welcome to the GOLD’S GYM web site at http://www.goldsgym.com (‘Site’) which is owned by GOLD’S GYM. This Site is operated by GOLD’S GYM and materials on the Site are primarily owned by GOLD’S GYM. The Site may also include materials owned by third parties and posted on the Site by virtue of a license, grant or some other form of agreement between the third party and GOLD’S GYM. GOLD’S GYM has created this Site for your personal enjoyment, entertainment and education. However, you are only authorized to access this Site or to use the materials contained in the Site (regardless of whether your access or use is intended) if you agree to abide by all applicable laws, and to these Terms of Use and Privacy Policy which constitute an Agreement between you and GOLD’S GYM. Please read these Terms of Use carefully and save them. If you do not agree with them, you should leave this Site immediately. Any questions or comments regarding, or problems with, this Site should be sent to the Site Administrator at support@goldsgym.com..</p>
+           </div>              
+           <div class="col-md-1">
+           		
+           	</div>	
+      </div>
+</body>
+</html>
